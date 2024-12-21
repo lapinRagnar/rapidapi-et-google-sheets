@@ -17,6 +17,8 @@ https://sportsdata.io/developers/apis
 
 https://www.api-basketball.com/
 
+https://www.balldontlie.io/
+
 
 
 ### dev resources && api
