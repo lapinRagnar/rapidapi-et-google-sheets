@@ -7,7 +7,9 @@ https://github.com/public-apis/public-apis
 
 ### pour la nba basketball
 https://www.balldontlie.io/
+
 https://any-api.com/nba_com/nba_com/docs/API_Description
+
 https://highlightly.net/documentation/basketball/?ref=public_apis&utm_medium=website
 
 ### dev resources && api
