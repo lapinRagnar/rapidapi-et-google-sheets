@@ -15,6 +15,9 @@ https://highlightly.net/documentation/basketball/?ref=public_apis&utm_medium=web
 
 https://sportsdata.io/developers/apis
 
+https://www.api-basketball.com/
+
+
 
 ### dev resources && api
 https://publicapis.dev/?ref=dev_resources&utm_medium=website
