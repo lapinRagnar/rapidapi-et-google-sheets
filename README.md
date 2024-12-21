@@ -21,6 +21,9 @@ https://www.balldontlie.io/
 
 https://www.kaggle.com/datasets/matheuscarvalho00/2024-nba-database
 
+https://developer.sportradar.com/basketball/docs/basketball-ig-account-setup
+
+
 
 
 
