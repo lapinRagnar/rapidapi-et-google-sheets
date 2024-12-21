@@ -19,6 +19,9 @@ https://www.api-basketball.com/
 
 https://www.balldontlie.io/
 
+https://www.kaggle.com/datasets/matheuscarvalho00/2024-nba-database
+
+
 
 
 ### dev resources && api
